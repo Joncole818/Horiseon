@@ -12,3 +12,8 @@
 * made updates to style.css 
     #### _tested successfully_
 
+## Additional Notes
+* This is a re-submission of assignment
+* A new repository was constructed and assignment was pulled down, modified and committed as described above. 
+* I see that some of the CSS can be consolidated at this time but feel the assignment must be submitted asap. Due to TX disaster, additional projects, I've not had a chance to get with TA to discuss this 1 on 1 and feel I should go ahead and submit. 
+
