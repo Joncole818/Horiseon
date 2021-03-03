@@ -9,3 +9,6 @@
 * Changed 'header' from 'div'
 * created header, section, article, aside and footer tags from 'div's. 
     #### _Tested successfully_
+* made updates to style.css 
+    #### _tested successfully_
+
