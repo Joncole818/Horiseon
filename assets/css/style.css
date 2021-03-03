@@ -1,3 +1,5 @@
+/* standardized style */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Header styling */
 
 .header {
     padding: 20px;
@@ -40,6 +44,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Text styling */
 
 a {
     color: #ffffff;
